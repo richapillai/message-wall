@@ -7,3 +7,6 @@ typechain
 #Hardhat files
 cache
 artifacts
+hardhat.config.js
+
+#WavePortal address:  0xB0cD22c38e207406E170594a8194ec2DE35756a6
